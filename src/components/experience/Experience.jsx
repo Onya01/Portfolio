@@ -64,29 +64,29 @@ const Experience = () => {
         </div>
         {/* END OF FRONT */}
 
-        <div className="experience__backend">
+        {/* <div className="experience__backend">
         <h3>Backend Developer</h3>
-          <div className="experience__content">
-            <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
+          <div className="experience__content"> */}
+            {/* <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
             <div>
             <h4>Node JS</h4>
             <small className='text-light'>Experienced</small>
             </div>
-            </article>
+            </article> */}
 
-            <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
+            {/* <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
             <div>
             <h4>MongoDB</h4>
             <small className='text-light'>Experience</small>
             </div>
-            </article>
+            </article> */}
 
-            <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
+            {/* <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
             <div>
             <h4>Express</h4>
             <small className='text-light'>Experienced</small>
             </div>
-            </article>
+            </article> */}
 
             {/* <article className='experience__details'><BsPatchCheckFill className='experience__details-icon' />
             <div>
@@ -94,9 +94,9 @@ const Experience = () => {
             <small className='text-light'>Basic</small>
             </div>
             </article> */}
-          </div>
-        </div>
-      </div>
+          {/* </div>
+        </div>*/}
+      </div> 
     </section>
   );
 }
