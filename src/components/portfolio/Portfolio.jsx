@@ -43,13 +43,13 @@ const data = [
     github: 'https://github.com/Onya01/top',
     demo: 'https://top-kappa-opal.vercel.app/'
   },
-  // {
-  //   id: 6,
-  //   image: IMG6,
-  //   title: 'AI',
-  //   github: 'https://github.com/Onya01/Prompt_Ai',
-  //   demo: 'https://react-website-nine-nu.vercel.app/'
-  // }
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Dice',
+    github: 'https://github.com/Onya01/number',
+    demo: 'https://number-sage-theta.vercel.app/'
+  }
 ]
 
 const Portfolio = () => {
