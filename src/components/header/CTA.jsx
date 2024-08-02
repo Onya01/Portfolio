@@ -1,5 +1,6 @@
 import React from 'react';
-import CV from '../../assets/updated_cv.pdf';
+// import CV from '../../assets/updated_cv.pdf';
+import CV from '../../assets/Tec4Dev.pdf';
 // import CV from '../../assets/InternshipCv.pdf';
 // import CL from '../../assets/coverletter.pdf';
 // import CV from '../../assets/interncv.pdf';
